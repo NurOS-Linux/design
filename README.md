@@ -1,4 +1,4 @@
-# DeltaDesign Concept (DDC) - README
+# Aether Design Concept (DDC) - README
 
 ## Overview
 
