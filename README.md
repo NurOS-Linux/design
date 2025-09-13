@@ -1,2 +1,2 @@
 # design
-The repository for design.
+Репозиторий в котором хранятся всё для дизайна
